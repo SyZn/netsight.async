@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.1.2 - unreleased
+--------------------
+
+- Fixed syntax errors in po translation files.
+  [SyZn]
+
 1.1.1 - (2011-10-27)
 --------------------
 
